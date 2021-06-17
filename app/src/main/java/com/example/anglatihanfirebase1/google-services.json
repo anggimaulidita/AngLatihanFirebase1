@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "813287601562",
+    "project_id": "anglatihanfirebase1",
+    "storage_bucket": "anglatihanfirebase1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813287601562:android:93736fe60d00bf0a19b623",
+        "android_client_info": {
+          "package_name": "com.example.anglatihanfirebase1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813287601562-dhd71o7letp845cu4v5an3p1vtd86qo9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anglatihanfirebase1",
+            "certificate_hash": "1c2b820dc6b14e19acaa77f5c15d7ce076c8f529"
+          }
+        },
+        {
+          "client_id": "813287601562-c67tkcooihv8hbd40d7g36in2q6mukh8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE1uaMpXczPVIFfsEHBSkqd9ho5BxYnmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813287601562-c67tkcooihv8hbd40d7g36in2q6mukh8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
